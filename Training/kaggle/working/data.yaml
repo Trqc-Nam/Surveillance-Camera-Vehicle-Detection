@@ -1,0 +1,7 @@
+
+train: /kaggle/input/datasets/miladbayat/surveillance-cameras/SurveillanceCameras/train/images
+test: /kaggle/input/datasets/miladbayat/surveillance-cameras/SurveillanceCameras/test/images
+val: /kaggle/input/datasets/miladbayat/surveillance-cameras/SurveillanceCameras/valid/images
+
+nc: 3
+names : ['bus', 'car', 'truck']
