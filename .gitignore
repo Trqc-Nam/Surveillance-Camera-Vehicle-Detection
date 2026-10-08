@@ -1,0 +1,4 @@
+**/weights/
+.venv/
+kaggle/working/runs/Top-View-Camera-Vehicle-Detection_v1/weights/
+kaggle/working/state.db
