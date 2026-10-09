@@ -1,5 +1,6 @@
 **/weights/
 .venv/
-Top-View-Camera-Vehicle-Detection/kaggle/working/runs/Top-View-Camera-Vehicle-Detection_v1/weights/
-Top-View-Camera-Vehicle-Detection/kaggle/working/state.db
+Surveillance-Camera-Vehicle-Detection/Training/kaggle/working/runs/Top-View-Camera-Vehicle-Detection_v1/weights/
+Surveillance-Camera-Vehicle-Detection/Training/kaggle/working/state.db
+*.db
 .idea/
