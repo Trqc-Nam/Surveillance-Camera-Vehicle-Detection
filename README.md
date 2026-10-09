@@ -3,7 +3,7 @@
 
 An optimized vehicle detection system designed for surveillance camera streams (CCTV). This pipeline addresses specific challenges in security camera footage, including high-angle oblique views, small/distant targets, heavy occlusion due to high traffic density, and extreme lighting variations between day and night.
 
-[![Video Demo](video_demo.mp4)](video_demo.mp4)
+![Video Demo](video_demo(1).gif)
 ---
 
 ## 1. Key Features
