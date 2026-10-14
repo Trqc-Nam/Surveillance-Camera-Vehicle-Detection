@@ -10,7 +10,7 @@ An optimized vehicle detection system designed for surveillance camera streams (
 
 * **Surveillance View Optimization:** Trained on high-angle camera datasets to reduce geometric/perspective distortion errors.
 * **Multi-Class Vehicle Detection:** Supports detailed classification of vehicle types (`car`, `bus`, `truck`).
-* **Streamlined Pipeline:** Directly integrated with the Ultralytics framework, supporting batch inference on video streams/RTSP feeds and model export to ONNX/TensorRT for edge deployment.
+* **Streamlined Pipeline:** Directly integrated with the Ultralytics framework, supporting batch inference on video streams/RTSP feeds.
 
 ---
 
