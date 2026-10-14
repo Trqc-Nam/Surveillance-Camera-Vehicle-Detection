@@ -95,9 +95,3 @@ pip install ultralytics
 ### 2. Model Training & Testing
 
 Run `Training/train_yolo.ipynb` to execute the training and evaluation pipeline.
-
----
-
-5. **Xuất mô hình ra thiết bị biên:** *Model export for edge deployment*.
-6. **Môi trường thực nghiệm:** *Experimental Setup / Benchmark Setup*.
-7. **Phân phối loss gốc:** *Ground-truth loss distributions*.
